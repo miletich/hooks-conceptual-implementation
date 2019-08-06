@@ -1,0 +1,28 @@
+{
+  "name": "hooks-conceptual-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run tsc && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miletich/hooks-conceptual-implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miletich/hooks-conceptual-implementation/issues"
+  },
+  "homepage": "https://github.com/miletich/hooks-conceptual-implementation#readme",
+  "dependencies": {
+    "@types/node": "^12.6.9"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
